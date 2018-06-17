@@ -14,6 +14,6 @@ Custom images are also there in the Deployed Model folder.
 * Save your model in the sub folder of Deployed Model folder.
 * Run the app.py file.
 * Let the server load, open a web browser and type localhost:5000
-**You are ready to go**
+#### You are ready to go
 ## Result
 Trained this model on cloud for **only** 2 epochs because of very little financial resources, the model achieves 73% accuracy.
