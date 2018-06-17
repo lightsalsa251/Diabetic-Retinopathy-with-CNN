@@ -1,4 +1,4 @@
-# Diabetic-Retinopathy-with-CNN
+# Diabetic Retinopathy with CNN
 Detect the stage of diabetes in human retina. The data is from Kaggle's Diabetic Retinopathy Detection Repository.
 ## Installation
 ### Download the data and clone this repository
