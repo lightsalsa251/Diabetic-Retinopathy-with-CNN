@@ -10,3 +10,5 @@ Detect the stage of diabetes in human retina. The data is from Kaggle's Diabetic
 * pip install tensorflow
 ## Usage
 Run each cell in the Model_script.ipynb file
+## Result
+Trained this model on cloud for **only** 2 epochs because of very little financial resources, the model achieves 73% accuracy.
