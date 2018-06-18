@@ -9,7 +9,7 @@ There are multiple types of commonly used layers in ConvNets
 * Fully Connected layer - Traditional neural layers, used at the end stem of the neural network. Used rarely these days due to the staggering amount of parameters it uses
 * Dropout layer - Used for reducing over-fitting. It randomly turns off some neurons at each pass during the training
 * Batch Normalisation - Normalises the output values thus reducing computation time. Also introduces regularisation effect\
-![](https://cdn-images-1.medium.com/max/1200/1*ByrVJspW-TefwlH7OLxNkg.png)
+![Residual Learning](https://cdn-images-1.medium.com/max/1200/1*ByrVJspW-TefwlH7OLxNkg.png)
 #### I have written an article on detecting diabetic retinopathy [here](https://medium.com/@s.ganjoo96/diabetic-retinopathy-detection-with-resnet50-b621514bd22b)
 ## Installation
 ### Download the data and clone this repository
