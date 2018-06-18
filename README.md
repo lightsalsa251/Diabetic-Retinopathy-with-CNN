@@ -1,5 +1,5 @@
 # Diabetic Retinopathy with CNN
-Detect the stage of diabetes in human retina. The data is from Kaggle's Diabetic Retinopathy Detection Repository.
+Detect the stage of diabetes in human retina. The 150 GB image data is from Kaggle's Diabetic Retinopathy Detection Repository.
 Run the flask app in Deployed Model folder to see the model in action.
 Custom images are also there in the Deployed Model folder.
 #### I have written an article on detecting diabetic retinopathy [here](https://medium.com/@s.ganjoo96/diabetic-retinopathy-detection-with-resnet50-b621514bd22b)
