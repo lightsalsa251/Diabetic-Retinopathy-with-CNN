@@ -1,7 +1,9 @@
 # Diabetic Retinopathy with CNN
 Detect the stage of diabetes in human retina. The 150 GB image data is from Kaggle's Diabetic Retinopathy Detection Repository.
 Run the flask app in Deployed Model folder to see the model in action.
-Custom images are also there in the Deployed Model folder.\
+Sample images have been stored in the Deployed Model folder for testing.\
+ResNet architecture has been used for training\
+![Residual Learning](https://cdn-images-1.medium.com/max/1200/1*ByrVJspW-TefwlH7OLxNkg.png)
 Convolutional Neural Networks aka ConvNet is a class of deep learning, most commonly applied to image datasets.\
 There are multiple types of commonly used layers in ConvNets
 * Convolution layer - This layer applies the convolution operation on an image with a defined stride and padding
@@ -9,7 +11,7 @@ There are multiple types of commonly used layers in ConvNets
 * Fully Connected layer - Traditional neural layers, used at the end stem of the neural network. Used rarely these days due to the staggering amount of parameters it uses
 * Dropout layer - Used for reducing over-fitting. It randomly turns off some neurons at each pass during the training
 * Batch Normalisation - Normalises the output values thus reducing computation time. Also introduces regularisation effect\
-![Residual Learning](https://cdn-images-1.medium.com/max/1200/1*ByrVJspW-TefwlH7OLxNkg.png)
+![Conv Operation](http://machinelearninguru.com/_images/topics/computer_vision/basics/convolution/1.JPG)
 #### I have written an article on detecting diabetic retinopathy [here](https://medium.com/@s.ganjoo96/diabetic-retinopathy-detection-with-resnet50-b621514bd22b)
 ## Installation
 ### Download the data and clone this repository
