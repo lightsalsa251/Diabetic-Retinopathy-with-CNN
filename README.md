@@ -3,7 +3,7 @@ Detect the stage of diabetes in human retina. The 150 GB image data is from Kagg
 Run the flask app in Deployed Model folder to see the model in action.
 Sample images have been stored in the Deployed Model folder for testing.\
 ResNet architecture has been used for training\
-![Residual Learning](https://cdn-images-1.medium.com/max/1200/1*ByrVJspW-TefwlH7OLxNkg.png)
+![Residual Learning](https://cdn-images-1.medium.com/max/1200/1*ByrVJspW-TefwlH7OLxNkg.png)\
 Convolutional Neural Networks aka ConvNet is a class of deep learning, most commonly applied to image datasets.\
 There are multiple types of commonly used layers in ConvNets
 * Convolution layer - This layer applies the convolution operation on an image with a defined stride and padding
